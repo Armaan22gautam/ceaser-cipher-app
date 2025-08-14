@@ -15,12 +15,6 @@ A minimal, cyberpunk-styled web app to encrypt/decrypt text using the classic Ca
 ## 🚀 Tech Stack
 HTML • CSS • JavaScript (no frameworks)
 
-## 🌐 Live
-- GitHub Pages: <your-link-here>
-
-## 📸 Screenshots
-(Add 1–2 images or a GIF)
-
 ## 🔧 Local Setup
 ```bash
 git clone https://github.com/Armaan22gautam/ceaser-cipher-app
